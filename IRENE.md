@@ -1,1 +1,1 @@
-Aquest és el meu READMI particular.
+Aquest és el meu README particular.
