@@ -1,5 +1,5 @@
 # ProvaBranques
-Prova de branques.
+Prova de branques i de merges i pull requests.
 
 ## Canvi a readme
 Això és un canvi fet al README original.
