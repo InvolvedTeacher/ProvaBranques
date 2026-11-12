@@ -10,6 +10,7 @@ Hola, em dic Irene.
 # Canvis de Alex
 Hola, em dic Alex.
 
-
 # Canvis de David
 Hola, em dic David.
+
+Advertencia! Este fichero es sólo un ejemplo.
