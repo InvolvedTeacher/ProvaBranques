@@ -1,5 +1,5 @@
 # ProvaBranques
-Prova de branques.
+Prova de branques i de merges i pull requests.
 
 ## Canvi a readme
 Això és un canvi fet al README original.
@@ -13,4 +13,8 @@ Hola, em dic Alex.
 # Canvis de David
 Hola, em dic David.
 
+# Luis falso
+Hola, soy un impostor.
+
+---------------------------------------------
 Advertencia! Este fichero es sólo un ejemplo.
