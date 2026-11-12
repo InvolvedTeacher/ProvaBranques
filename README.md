@@ -10,9 +10,11 @@ Hola, em dic Irene.
 # Canvis de Alex
 Hola, em dic Alex.
 
-
 # Canvis de David
 Hola, em dic David.
 
 # Luis falso
 Hola, soy un impostor.
+
+---------------------------------------------
+Advertencia! Este fichero es sólo un ejemplo.
